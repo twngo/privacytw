@@ -2,20 +2,22 @@ Original file : [survey of questions on Privacy Briefings](https://privacyintern
 
 # State of Privacy Briefing guidelines
 
-### The constitution (if any)
+### The constitution (if any) 憲法保障　
 What articles, if any, exist on privacy and/or data protection in the country’s constitution?
 
 中華民國憲法第十二條：人民有秘密通訊之自由。
 
 相關重要大法官解釋：[釋字603](http://www.judicial.gov.tw/constitutionalcourt/p03_01.asp?expno=603)與。。。（待補）
 
-### Regional and International conventions
+### Regional and International conventions　區域與國際公約批准
 Is the country signatory to international treaties that recognise privacy as a fundamental
 human right, including:
 
 • Universal Declaration on Human Rights (Article 12)
 
 • International Convention on Civil and Political Rights (Article 17)
+
+2009年，台灣政府批淮聯合國兩大人權公約，並另以「兩公約施行法」方式將國際公約內國法化，以填補台灣非UN會員國家，其公約無被聯合國存放受理之約束效力。此舉表示，台灣政府願意依國際人權公約之規範，克盡尊重、保護與促進人權實現之義務。故公政公約第17條隱私權保障之肯認，亦對台灣產生拘束力。
 
 參考資源：公政公約國家報告與民間對比的影子報告
 
@@ -31,7 +33,7 @@ human right, including:
 
 ~~• Other international or regional instruments.~~
 
-## Surveillance
+## Surveillance　監控
 ### Surveillance laws
 Are there laws or legal provisions that allow the surveillance of communications – internet
 and telephonic?
@@ -39,18 +41,29 @@ and telephonic?
 - Do the laws make a distinction between communications content and metadata; if so, do
 they have different provisions and so different levels of protection?
 - Do the laws cover bulk interception?
+
+[通訊保障及監察法](http://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=K0060044)　依法務部**片面**之限縮解釋，其在數位與電信監控上規範與保障對像，僅限於:「利用**電信設備**發送、儲存、傳輸或接收符號、文字、影像、聲音或其他信息之有線及無線電信。」換言之，只管得到市話、行動電話、行動電話上網的通訊；若由利用網路連線服務業者ISP進行之內容信息傳輸，則不受該法規範約制。
+
+[電信法]（）：　含電信與網路業者
+
+flowchart ?
+
+
 Are there directives/orders from the executive (president, royalty, prime minister)
 authorizing interception or access by law enforcement or authorized authorities? Under
 what circumstances can these powers be used?
+
 Are there are any bills that are currently being considered that would have an effect on
 privacy and surveillance (for example, expanding the investigative powers of various
 government agencies)?
+
+資通安全法草案
 
 ### Surveillance actors
 i. Intelligence/security agencies
 What intelligence/security agencies are empowered by law to monitor communications?
 
-Under which law(s) do they operate? What are the limitations to the communications they
+Under which law(s) do they operate? What are the limitations to the communications they.
 can monitor?
 
 Or do they operate outside the law?
@@ -62,25 +75,32 @@ inspectors, local councils, anti-corruption agencies? Under which law(s) do they
 
 What are the limitations to the communications they can monitor?
 
+可執行電信通訊監控的行政機關部門：國安局、內政部警政署、內政部海巡署、法務部調查局、各地地檢署、高檢署　
+
+
 ### Surveillance capabilities
 What do we know about the technical surveillance capabilities of the country? Ways of
 answering this include looking at specific examples, eg what requests have come to light
 for the quote/purchase/delivery of surveillance technologies? 
 
-Have any cases emerged thatdisplay the technology capabilities?
+Have any cases emerged that　display the technology capabilities?
 
 ### Surveillance oversight, checks and balances
 Are there any checks and balances mentioned in the text of the laws? Namely:
 - Is there a body or authority responsible for authorizing surveillance?
+
 - Is there a reporting procedure that this body/authority must comply with?
+
 - Is there a body or authority responsible for overseeing surveillance?
+
 - Is there a reporting procedure that this body/authority must comply with?
-- Are security agencies and/or service providers required to implement procedural
-safeguards while implementing surveillance?
+
+- Are security agencies and/or service providers required to implement procedural　safeguards while implementing surveillance?
+
 
 ### Surveillance case law
-Are there any interesting cases where courts have ruled on privacy, or cases pending
-before a Court?
+Are there any interesting cases where courts have ruled on privacy, or cases pending　before a Court?
+
 
 ### Examples of surveillance
 Are there any examples of surveillance that have come to light, either through the courts or
@@ -105,7 +125,7 @@ i. Habeas Data/subject access requests
  - Is there a law in the country that allows (specifically) a person affected to find out what
 information is held about themselves? (This is sometimes called Habeus Data, or a Subject
 Access Request).
-**應是沒有吧?**
+**應是沒有吧**
 
 ii. Freedom of Information
  - Are there any laws or processes by which ordinary citizens can obtain information from the
@@ -115,6 +135,7 @@ confidentiality’) that the government can cite to refuse to publish informatio
 
 [政府資訊公開法](http://law.moj.gov.tw/LawClass/LawAllIf.aspx?PCode=I0020026)
 第十八條之「例外」不予公開的政府資訊：
+
 >政府資訊屬於下列各款情形之一者，應限制公開或不予提供之：
 >
 > 1 經依法核定為國家機密或其他法律、法規命令規定應秘密事項或限制、禁止公開者。
@@ -140,7 +161,9 @@ confidentiality’) that the government can cite to refuse to publish informatio
 案件進入司法救濟程序的結果（案件數、勝訴比例、機關類型....）　
 
 iii. Consumer protection rules
- - Does the country have consumer protection rules that cover data, for instance protecting consumer credit information?
+ - Does the country have consumer protection rules that cover data, for instance protecting consumer credit information?「
+ 
+[金融業聯合徵信中心](http://www.jcic.org.tw/) ：台灣唯一一家會員皆為金融業業者，獨斷個人與企業的財務信用報告credit report。　純靠業者自律，欠缺外控監督機制。
 
 iv. Data breaches: case law
  - Are there any interesting cases where courts have ruled on data protection? Or cases pending before a Court?
@@ -170,7 +193,6 @@ Within each of these databases:
 
 • Does it include a partnership with the private sector - national or international?
 
-
 ### Voter registration
 ~~Does your country have a biometric voter registration system?~~
  ~~- What biometric data is recorded?~~
@@ -183,9 +205,8 @@ contexts, either officially or unofficially~~~~
 Are there requirements to register SIM cards and other communications registration
 requirements? Is biometrics involved?
 
-主管行動電信業務國家傳播通訊委員會會：申辦手機門號（含預付卡）須備**雙證件**(本國國民與外國人士偕同)－－>尚未查到相關法規來源
+主管行動電信業務國家傳播通訊委員會會：申辦手機門號（含預付卡）須備**雙證件**(本國國民與外國人士偕同) 法規來源不明
 尚無涉及生物特徽之登錄
-
 
 ## Sectoral initiatives
 The purpose of this section is to explore in more detail the issues with regard to privacy and
