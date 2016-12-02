@@ -13,17 +13,17 @@ human right, including:
 
 • International Convention on Civil and Political Rights (Article 17)
 
-~~• International Convention on the Protection of the Rights of All Migrant Workers and Members of their Families (Article 14)
+~~• International Convention on the Protection of the Rights of All Migrant Workers and Members of their Families (Article 14)~~
 
-~~• Arab Charter of Human Rights (Article 21),
+~~• Arab Charter of Human Rights (Article 21),~~
 
-~~• African Charter on the Rights and Welfare of the Child (Article 10)
+~~• African Charter on the Rights and Welfare of the Child (Article 10)~~
 
-~~• American Convention on Human Rights (Article 11)
+~~• American Convention on Human Rights (Article 11)~~
 
-~~• ASEAN Human Rights Declaration (Article 21)
+~~• ASEAN Human Rights Declaration (Article 21)~~
 
-~~• Other international or regional instruments.
+~~• Other international or regional instruments.~~
 
 ## Surveillance
 ### Surveillance laws
