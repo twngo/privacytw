@@ -5,6 +5,10 @@ Original file : [survey of questions on Privacy Briefings](https://privacyintern
 ### The constitution (if any)
 What articles, if any, exist on privacy and/or data protection in the country’s constitution?
 
+中華民國憲法第十二條：人民有秘密通訊之自由。
+
+相關重要大法官解釋：[釋字603](http://www.judicial.gov.tw/constitutionalcourt/p03_01.asp?expno=603)與。。。（待補）
+
 ### Regional and International conventions
 Is the country signatory to international treaties that recognise privacy as a fundamental
 human right, including:
@@ -12,6 +16,8 @@ human right, including:
 • Universal Declaration on Human Rights (Article 12)
 
 • International Convention on Civil and Political Rights (Article 17)
+
+參考資源：公政公約國家報告與民間對比的影子報告
 
 ~~• International Convention on the Protection of the Rights of All Migrant Workers and Members of their Families (Article 14)~~
 
@@ -85,17 +91,21 @@ emails, etc.), what came out of it, if anything?
 	
 ### Data protection laws
 Are there laws/legal provisions addressing Data Protection? If yes, do these contain
-provisions relating to access and disclosure of data to law enforcement or authorized
-authorities?
+provisions relating to **access and disclosure of data to law enforcement or authorized
+authorities?**
+
 Even if the country does not have a data protection law, that is also an important and
 interesting point that should be referred to in this section. Is there a bill being discussed?
 Any external actors involved (CNIL, EU, CoE of Convention 108)
+[個人資料保護法](http://law.moj.gov.tw/LawClass/LawAllIf.aspx?PCode=I0050021)
+
 
 ### Accountability mechanisms
 i. Habeas Data/subject access requests
  - Is there a law in the country that allows (specifically) a person affected to find out what
 information is held about themselves? (This is sometimes called Habeus Data, or a Subject
 Access Request).
+**應是沒有吧?**
 
 ii. Freedom of Information
  - Are there any laws or processes by which ordinary citizens can obtain information from the
@@ -106,6 +116,7 @@ confidentiality’) that the government can cite to refuse to publish informatio
 [政府資訊公開法](http://law.moj.gov.tw/LawClass/LawAllIf.aspx?PCode=I0020026)
 第十八條之「例外」不予公開的政府資訊：
 >政府資訊屬於下列各款情形之一者，應限制公開或不予提供之：
+>
 > 1 經依法核定為國家機密或其他法律、法規命令規定應秘密事項或限制、禁止公開者。
 >
 > 2 公開或提供有礙犯罪之偵查、追訴、執行或足以妨害刑事被告受公正之裁判或有危害他人生命、身體、自由、財產者。
@@ -126,6 +137,7 @@ confidentiality’) that the government can cite to refuse to publish informatio
 > 9 公營事業機構經營之有關資料，其公開或提供將妨害其經營上之正當利益者。但對公益有必要者，得公開或提供之。
 >政府資訊含有前項各款限制公開或不予提供之事項者，應僅就其他部分公開或提供之。
 
+案件進入司法救濟程序的結果（案件數、勝訴比例、機關類型....）　
 
 iii. Consumer protection rules
  - Does the country have consumer protection rules that cover data, for instance protecting consumer credit information?
