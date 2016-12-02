@@ -82,6 +82,7 @@ i. Habeas Data/subject access requests
  - Is there a law in the country that allows (specifically) a person affected to find out what
 information is held about themselves? (This is sometimes called Habeus Data, or a Subject
 Access Request).
+
 ii. Freedom of Information
  - Are there any laws or processes by which ordinary citizens can obtain information from the
 government (eg. a Freedom of Information law)?
@@ -137,14 +138,19 @@ issues. The level of detail we provide for each will vary as well as so we may w
 prioritise those more relevant/important now, and provide more details in the future.
 For these sectors, it is most important to get across why these are relevant from a privacy
 or data protection perspective. It may be important to understand:
-• the legal backdrop, or lack of, to a scheme
-• whether it is a private and/or public sector initiative; for public sector initiatives, which government agencies/bodies are involved, and for private sector, which companies are involved, and who is involved in the financing;
-• whether databases and information are stored locally or internationally; is information
+
+a the legal backdrop, or lack of, to a scheme
+
+b whether it is a private and/or public sector initiative; for public sector initiatives, which government agencies/bodies are involved, and for private sector, which companies are involved, and who is involved in the financing;
+
+c whether databases and information are stored locally or internationally; is information
 held securely?
-• do the databases involved links with other sources of information, eg via a national ID
+d do the databases involved links with other sources of information, eg via a national ID
 project
-• the extent to which it has been introduced - whether it's a national scheme, a pilot, oronly covers a limited sector of the population
-• whether there are concerns the scheme is discriminatory, or prejudicial, in how it is
+
+e the extent to which it has been introduced - whether it's a national scheme, a pilot, oronly covers a limited sector of the population
+
+f whether there are concerns the scheme is discriminatory, or prejudicial, in how it is
 deployed/used
 
 ### Cyber Security Policy
