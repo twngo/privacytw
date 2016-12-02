@@ -136,12 +136,12 @@ Within each of these databases:
 • Does it include a partnership with the private sector - national or international?
 
 ### Voter registration
-Does your country have a biometric voter registration system?
+~~Does your country have a biometric voter registration system?
  - What biometric data is recorded?
  - What company provides the technology? Where are voter cards produced? Where is the
 database stored (nationally or internationally?)
  - Has the database been used for any other purposes? Are voter ID cards used in other
-contexts, either officially or unofficially
+contexts, either officially or unofficially~~
 
 ### SIM card registration
 Are there requirements to register SIM cards and other communications registration
