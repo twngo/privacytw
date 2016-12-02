@@ -136,18 +136,18 @@ Within each of these databases:
 • Does it include a partnership with the private sector - national or international?
 
 ### Voter registration
-~~Does your country have a biometric voter registration system?
- - What biometric data is recorded?
- - What company provides the technology? Where are voter cards produced? Where is the
-database stored (nationally or internationally?)
- - Has the database been used for any other purposes? Are voter ID cards used in other
-contexts, either officially or unofficially~~
+~~Does your country have a biometric voter registration system?~~
+ ~~- What biometric data is recorded?~~
+ ~~- What company provides the technology? Where are voter cards produced? Where is the
+database stored (nationally or internationally?)~~
+ ~~- Has the database been used for any other purposes? Are voter ID cards used in other
+contexts, either officially or unofficially~~~~
 
 ### SIM card registration
 Are there requirements to register SIM cards and other communications registration
 requirements? Is biometrics involved?
 
-### Sectoral initiatives
+## Sectoral initiatives
 The purpose of this section is to explore in more detail the issues with regard to privacy and
 data protection in areas that are relevant to life in the and emerging in each country. This
 could be related to government schemes launched with lots of publicity; initiatives
@@ -232,7 +232,11 @@ under the discourse of trying to make cities more efficient or "modern".
 ### Migration
 This is issues relating to migration, including biometric passports, biometrics visas and
 registration of refugees, and management of delivery of services in refugee camps.
-	
+
+[入出國及移民法第４條]（http://law.moj.gov.tw/LawClass/LawParaDeatilIf.aspx?Pcode=D0080132&LCNOS=+++1+++&LCC=2）
+[入出國及移民法第９１條]（http://law.moj.gov.tw/LawClass/LawSingleIf.aspx?Pcode=D0080132&FLNO=91）
+[個人生物特徵識別資料蒐集管理及運用辦法]
+
 ### Emergency Response
 These are issues surrounding emergencies and responses - for example, following
 earthquakes or infectious disease outbreaks. This could highlight the tension between
