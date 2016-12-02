@@ -17,3 +17,5 @@ State of Privacy in Taiwan
 在地個案
 
 民間資源
+
+[gitbook version](https://www.gitbook.com/book/twngo/state-of-privacy-in-taiwan/details) 
