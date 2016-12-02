@@ -107,12 +107,18 @@ catalog/id4d-dataset
 
 ### ID cards and databases
 Is there a national database or national ID card system in the country?
+
 Within each of these databases:
 • How many people are enrolled in it?
+
 • When was it established?
+
 • What kind of data does it collect?
+
 • Which agency is responsible for managing it and storing it?
+
 • What can you find out about the software and hardware that is used for it?
+
 • Does it include a partnership with the private sector - national or international?
 
 ### Voter registration
@@ -136,21 +142,23 @@ facto examples in which privacy-related issues have emerged. Not all of these se
 be of relevance to every country, and so select which seem like relevant or important
 issues. The level of detail we provide for each will vary as well as so we may want to
 prioritise those more relevant/important now, and provide more details in the future.
+
 For these sectors, it is most important to get across why these are relevant from a privacy
 or data protection perspective. It may be important to understand:
 
-a the legal backdrop, or lack of, to a scheme
+a) the legal backdrop, or lack of, to a scheme
 
-b whether it is a private and/or public sector initiative; for public sector initiatives, which government agencies/bodies are involved, and for private sector, which companies are involved, and who is involved in the financing;
+b) whether it is a private and/or public sector initiative; for public sector initiatives, which government agencies/bodies are involved, and for private sector, which companies are involved, and who is involved in the financing;
 
-c whether databases and information are stored locally or internationally; is information
+c) whether databases and information are stored locally or internationally; is information
 held securely?
-d do the databases involved links with other sources of information, eg via a national ID
+
+d) do the databases involved links with other sources of information, eg via a national ID
 project
 
-e the extent to which it has been introduced - whether it's a national scheme, a pilot, oronly covers a limited sector of the population
+e) the extent to which it has been introduced - whether it's a national scheme, a pilot, oronly covers a limited sector of the population
 
-f whether there are concerns the scheme is discriminatory, or prejudicial, in how it is
+f) whether there are concerns the scheme is discriminatory, or prejudicial, in how it is
 deployed/used
 
 ### Cyber Security Policy
