@@ -79,19 +79,21 @@ Any external actors involved (CNIL, EU, CoE of Convention 108)
 
 ### Accountability mechanisms
 i. Habeas Data/subject access requests
-Is there a law in the country that allows (specifically) a person affected to find out what
+ - Is there a law in the country that allows (specifically) a person affected to find out what
 information is held about themselves? (This is sometimes called Habeus Data, or a Subject
 Access Request).
 ii. Freedom of Information
-Are there any laws or processes by which ordinary citizens can obtain information from the
+ - Are there any laws or processes by which ordinary citizens can obtain information from the
 government (eg. a Freedom of Information law)?
-- What are the 'exceptions' if any to this law (for example 'national security' or 'company
+ - What are the 'exceptions' if any to this law (for example 'national security' or 'company
 confidentiality’) that the government can cite to refuse to publish information?
+
 iii. Consumer protection rules
-Does the country have consumer protection rules that cover data, for instance protecting consumer credit information?
+ - Does the country have consumer protection rules that cover data, for instance protecting consumer credit information?
+
 iv. Data breaches: case law
-Are there any interesting cases where courts have ruled on data protection? Or cases pending before a Court?
-Are there any interesting cases that emerged from the work of the data protection authority, if there is one?
+ - Are there any interesting cases where courts have ruled on data protection? Or cases pending before a Court?
+ - Are there any interesting cases that emerged from the work of the data protection authority, if there is one?
 
 ### Examples of data breaches
 Are there any cases in which large amounts of personal data have been leaked to the
@@ -114,10 +116,10 @@ Within each of these databases:
 
 ### Voter registration
 Does your country have a biometric voter registration system?
-- What biometric data is recorded?
-- What company provides the technology? Where are voter cards produced? Where is the
+ - What biometric data is recorded?
+ - What company provides the technology? Where are voter cards produced? Where is the
 database stored (nationally or internationally?)
-- Has the database been used for any other purposes? Are voter ID cards used in other
+ - Has the database been used for any other purposes? Are voter ID cards used in other
 contexts, either officially or unofficially
 
 ### SIM card registration
@@ -135,14 +137,14 @@ issues. The level of detail we provide for each will vary as well as so we may w
 prioritise those more relevant/important now, and provide more details in the future.
 For these sectors, it is most important to get across why these are relevant from a privacy
 or data protection perspective. It may be important to understand:
-a. the legal backdrop, or lack of, to a scheme
-b. whether it is a private and/or public sector initiative; for public sector initiatives, which government agencies/bodies are involved, and for private sector, which companies are involved, and who is involved in the financing;
-c. whether databases and information are stored locally or internationally; is information
+• the legal backdrop, or lack of, to a scheme
+• whether it is a private and/or public sector initiative; for public sector initiatives, which government agencies/bodies are involved, and for private sector, which companies are involved, and who is involved in the financing;
+• whether databases and information are stored locally or internationally; is information
 held securely?
-d. do the databases involved links with other sources of information, eg via a national ID
+• do the databases involved links with other sources of information, eg via a national ID
 project
-e. the extent to which it has been introduced - whether it's a national scheme, a pilot, oronly covers a limited sector of the population
-f. whether there are concerns the scheme is discriminatory, or prejudicial, in how it is
+• the extent to which it has been introduced - whether it's a national scheme, a pilot, oronly covers a limited sector of the population
+• whether there are concerns the scheme is discriminatory, or prejudicial, in how it is
 deployed/used
 
 ### Cyber Security Policy
