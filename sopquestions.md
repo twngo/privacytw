@@ -1,4 +1,4 @@
-Originalfile : [survey of questions on Privacy Briefings](https://privacyinternational.org/sites/default/files/sopquestions.pdf) (pdf)
+Original file : [survey of questions on Privacy Briefings](https://privacyinternational.org/sites/default/files/sopquestions.pdf) (pdf)
 
 # State of Privacy Briefing guidelines
 
