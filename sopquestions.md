@@ -43,19 +43,25 @@ government agencies)?
 ### Surveillance actors
 i. Intelligence/security agencies
 What intelligence/security agencies are empowered by law to monitor communications?
+
 Under which law(s) do they operate? What are the limitations to the communications they
 can monitor?
+
 Or do they operate outside the law?
+
 ii. Law enforcement
 What law enforcement agencies are empowered by the law to monitor communications?
 For example, does this include the police, serious crime agenices, local/state police, tax
 inspectors, local councils, anti-corruption agencies? Under which law(s) do they operate?
+
 What are the limitations to the communications they can monitor?
 
 ### Surveillance capabilities
 What do we know about the technical surveillance capabilities of the country? Ways of
 answering this include looking at specific examples, eg what requests have come to light
-for the quote/purchase/delivery of surveillance technologies? Have any cases emerged thatdisplay the technology capabilities?
+for the quote/purchase/delivery of surveillance technologies? 
+
+Have any cases emerged thatdisplay the technology capabilities?
 
 ### Surveillance oversight, checks and balances
 Are there any checks and balances mentioned in the text of the laws? Namely:
