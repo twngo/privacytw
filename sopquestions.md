@@ -8,13 +8,21 @@ What articles, if any, exist on privacy and/or data protection in the country’
 ### Regional and International conventions
 Is the country signatory to international treaties that recognise privacy as a fundamental
 human right, including:
+
 • Universal Declaration on Human Rights (Article 12)
+
 • International Convention on Civil and Political Rights (Article 17)
+
 • International Convention on the Protection of the Rights of All Migrant Workers and Members of their Families (Article 14)
+
 • Arab Charter of Human Rights (Article 21),
+
 • African Charter on the Rights and Welfare of the Child (Article 10)
+
 • American Convention on Human Rights (Article 11)
+
 • ASEAN Human Rights Declaration (Article 21)
+
 • Other international or regional instruments.
 
 ## Surveillance
