@@ -14,8 +14,10 @@ State of Privacy in Taiwan 2017
 
 [台灣相關法規總覧](laws.md)
 
-在地個案
+民間社團資源
 
-民間資源
+[學術研究報告](academics.md)
+
+在地個案
 
 [gitbook version](https://www.gitbook.com/book/twngo/state-of-privacy-in-taiwan/details) 
