@@ -103,6 +103,22 @@ government (eg. a Freedom of Information law)?
  - What are the 'exceptions' if any to this law (for example 'national security' or 'company
 confidentiality’) that the government can cite to refuse to publish information?
 
+[政府資訊公開法](http://law.moj.gov.tw/LawClass/LawAllIf.aspx?PCode=I0020026)
+第十八條之「例外」不予公開的政府資訊：
+>政府資訊屬於下列各款情形之一者，應限制公開或不予提供之：
+> 1 經依法核定為國家機密或其他法律、法規命令規定應秘密事項或限制、禁止公開者。
+> 2 公開或提供有礙犯罪之偵查、追訴、執行或足以妨害刑事被告受公正之裁判或有危害他人生命、身體、自由、財產者。
+> 3 政府機關作成意思決定前，內部單位之擬稿或其他準備作業。但對公益有必要者，得公開或提供之。
+> 4 政府機關為實施監督、管理、檢 (調) 查、取締等業務，而取得或製作監督、管理、檢 (調) 查、取締對象之相關資料，其公開或提供將對實施目的造成困難或妨害者。
+> 5 有關專門知識、技能或資格所為之考試、檢定或鑑定等有關資料，其公開或提供將影響其公正效率之執行者。
+> 6 公開或提供有侵害個人隱私、職業上秘密或著作權人之公開發表權者。但對公益有必要或為保護人民生命、身體、健康有必要或經當事人同意者，不在此限。
+> 7 個人、法人或團體營業上秘密或經營事業有關之資訊，其公開或提供有侵害該個人、法人或團體之權利、競爭地位或其他正當利益者。但對公益有必要或為保護人民生命、
+> 身體、健康有必要或經當事人同意者，不在此限。
+> 8 為保存文化資產必須特別管理，而公開或提供有滅失或減損其價值之虞者。
+> 9 公營事業機構經營之有關資料，其公開或提供將妨害其經營上之正當利益者。但對公益有必要者，得公開或提供之。
+>政府資訊含有前項各款限制公開或不予提供之事項者，應僅就其他部分公開或提供之。
+
+
 iii. Consumer protection rules
  - Does the country have consumer protection rules that cover data, for instance protecting consumer credit information?
 
@@ -114,10 +130,9 @@ iv. Data breaches: case law
 Are there any cases in which large amounts of personal data have been leaked to the
 public? For example, hacks of government databases, or publication of personal data.
 
-### Identification schemes
+## Identification schemes
 Note: a potential source for this section is the World Bank's Identification for Development
-(ID4D) Global Dataset, which can be downloaded here: http://data.worldbank.org/data-
-catalog/id4d-dataset
+(ID4D) Global Dataset, which can be downloaded here: http://data.worldbank.org/data-catalog/id4d-dataset
 
 ### ID cards and databases
 Is there a national database or national ID card system in the country?
@@ -135,6 +150,7 @@ Within each of these databases:
 
 • Does it include a partnership with the private sector - national or international?
 
+
 ### Voter registration
 ~~Does your country have a biometric voter registration system?~~
  ~~- What biometric data is recorded?~~
@@ -146,6 +162,10 @@ contexts, either officially or unofficially~~~~
 ### SIM card registration
 Are there requirements to register SIM cards and other communications registration
 requirements? Is biometrics involved?
+
+主管行動電信業務國家傳播通訊委員會會：申辦手機門號（含預付卡）須備**雙證件**(本國國民與外國人士偕同)－－>尚未查到相關法規來源
+尚無涉及生物特徽之登錄
+
 
 ## Sectoral initiatives
 The purpose of this section is to explore in more detail the issues with regard to privacy and
@@ -177,23 +197,25 @@ deployed/used
 
 ### Cyber Security Policy
 Does the country have a cyber security policy? Which government agency is developing it?
+
 Are there any external actors involved (OAS, AU, EU, US?) What provisions does it contain?
+
 Is it enforced?
+
 
 ### Cybercrime
 Are there laws/legal provisions addressing cyber crimes? If yes, Under
-which government ministry/agency does it fall (military, defence, law
-enforcement?). Do these contain provisions allowing access and collection of data by law
-enforcement/authorized authorities?
+which government ministry/agency does it fall (military, defence, law　enforcement?). 
+
+Do these contain provisions allowing access and collection of data by law　enforcement/authorized authorities?
 
 ### Encryption
 Are there limitations to what techniques people can lawfully use to
 protect themselves? Eg is encryption regulated (need to register for use) or banned?
 
 ### Licensing of industry
-What obligations are imposed on the telecommunication industry under
-licensing agreements, these may include: modification of networks, providing direct access,
-enabling decryption of encrypted communications, etc.
+What obligations are imposed on the telecommunication industry under　licensing agreements, these may include: modification of networks, providing direct access,enabling decryption of encrypted communications, etc.
+**這條看不懂**
 
 ### E-governance/digital agenda
 Is the government promoting an "e-governance" agenda? This could include, for example,
@@ -207,13 +229,23 @@ national ID card number)? Is there an associated database that links the
 user's access to services?
 - Have any privacy concerns been raised over the egovernment programme?
 - Are national data protection or privacy standards applicable to the government?
-	
+
+行政院數位國家方案？內容到底是什麼
+
 ### Health sector + e-health
 This is the use of databases and identity cards and how it ties to the health sector. What
 new initiatives have been started, and what are planned, that gather data? How is data
 stored and shared, and does it have an impact beyond that intended? For example, do
 citizens need to be registered to access health care?
-	
+
+[全民健康保險法](http://law.moj.gov.tw/LawClass/LawAllIf.aspx?PCode=L0060001)
+
+[全民健康保險研究資料庫加值服務申請原則](http://nhird.nhri.org.tw/rule_02.html)
+
+自１９９５年３月全民健保實施後，凡具中華民國戶籍之國民，以及在臺居留滿六個月領有居留證明文件之外國人士，**均應**參加全民健康保險為保險對象。其個人健保資料綁定於國民身份證或居留證證號，並由健保署委託國家衛生研究院建置「全民健康保險研究資料庫」，提供學界進行相關「加值」研究。(雖相關機關皆宣稱其資料庫裏的個別及機構身分欄位均經雙重加密處理，　ＢＵＴ.....)　
+
+人體研究生物資料庫問題
+
 ### Smart policing
 Smart policing is:
 - Predictive policing: The use of technology that 'predicts' where crime hotspots are going
@@ -233,9 +265,15 @@ under the discourse of trying to make cities more efficient or "modern".
 This is issues relating to migration, including biometric passports, biometrics visas and
 registration of refugees, and management of delivery of services in refugee camps.
 
-[入出國及移民法第４條]（http://law.moj.gov.tw/LawClass/LawParaDeatilIf.aspx?Pcode=D0080132&LCNOS=+++1+++&LCC=2）
-[入出國及移民法第９１條]（http://law.moj.gov.tw/LawClass/LawSingleIf.aspx?Pcode=D0080132&FLNO=91）
-[個人生物特徵識別資料蒐集管理及運用辦法]
+[入出國及移民法第４條](http://law.moj.gov.tw/LawClass/LawParaDeatilIf.aspx?Pcode=D0080132&LCNOS=+++1+++&LCC=2)
+
+[入出國及移民法第９１條](http://law.moj.gov.tw/LawClass/LawSingleIf.aspx?Pcode=D0080132&FLNO=91)
+
+[個人生物特徵識別資料蒐集管理及運用辦法](http://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=D0080173)　
+
+[外來人口個人生物特徵識別系統](https://www.immigration.gov.tw/BVS/information.html)
+
+**欲進入台灣之外國人（含無戶籍國民）,除具駐台外交官與其家眷身份以１４歲以下之旅客外，於入境時均須擷取臉部與指紋特徵，且其資料得保存２０年。**
 
 ### Emergency Response
 These are issues surrounding emergencies and responses - for example, following
