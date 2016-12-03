@@ -4,6 +4,8 @@ State of Privacy in Taiwan 2017
 參考隱私國際Privacy Intnerational 的[各國隱私現況研究計畫](https://privacyinternational.org/reports/state-of-privacy)之架構，
 擬整理台灣版的隱私權狀況。
 
+其它類似報告：EFF [A map of the state of communications surveillance in Latin America](https://necessaryandproportionate.org/americas-reports)
+
 [英文調查問卷與初步資料整理](sopquestions.md)
 
 中文版
