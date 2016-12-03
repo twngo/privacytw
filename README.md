@@ -21,6 +21,5 @@ State of Privacy in Taiwan 2017
 
 [學術研究報告](academics.md)
 
-在地個案
-
+在地個案收集
 [gitbook version](https://www.gitbook.com/book/twngo/state-of-privacy-in-taiwan/details) 
