@@ -24,4 +24,4 @@ State of Privacy in Taiwan 2017
 
 在地個案收集
 
-[gitbook version](https://www.gitbook.com/book/twngo/state-of-privacy-in-taiwan/details) 
+### [gitbook version](https://www.gitbook.com/book/twngo/state-of-privacy-in-taiwan/details) 
