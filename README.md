@@ -6,12 +6,13 @@ State of Privacy in Taiwan 2017
 
  其它類似報告：EFF [A map of the state of communications surveillance in Latin America](https://necessaryandproportionate.org/americas-reports)
 
-
 [英文調查問卷與初步資料整理](sopquestions.md)
 
 中文版
 
 英文版
+
+###其它雜七雜八的資料
 
 政府政策
 
