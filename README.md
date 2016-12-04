@@ -25,3 +25,5 @@ State of Privacy in Taiwan 2017
 在地個案收集
 
 ### [gitbook version](https://www.gitbook.com/book/twngo/state-of-privacy-in-taiwan/details) 
+
+草稿丟在本專案[wiki](https://github.com/twngo/privacytw/wiki),歡迎利用github功能（如issue）提供各方建議
