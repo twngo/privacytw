@@ -8,9 +8,9 @@ State of Privacy in Taiwan 2017
 
 [英文調查問卷與初步資料整理](sopquestions.md)
 
-中文版
+中文版 Chinese
 
-英文版
+英文版 English version
 
 ###其它雜七雜八的資料
 
