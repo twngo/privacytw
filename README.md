@@ -8,7 +8,7 @@ State of Privacy in Taiwan 2017
 
 [英文調查問卷與初步資料整理](sopquestions.md)
 
-中文版架構 Chinese
+### 中文版架構 Chinese
 
  1 [隱私權在憲法與國際人權法的地位](01.md)
 
@@ -20,9 +20,9 @@ State of Privacy in Taiwan 2017
 
  5 公部門各數位專案
  
-英文版 English version
+### 英文版 English version
 
-###其它雜七雜八的資料
+### 其它雜七雜八的資料
 
 政府政策
 
