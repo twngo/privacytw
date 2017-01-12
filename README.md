@@ -8,8 +8,13 @@ State of Privacy in Taiwan 2017
 
 [英文調查問卷與初步資料整理](sopquestions.md)
 
-中文版 Chinese
-
+中文版架構 Chinese
+ 1 [隱私權在憲法與國際人權法的地位](01.md)
+ 2 監控現況[]
+ 3 [個人資料保護](03.md)
+ 4.[身份識別與大型資料庫](04.md)
+ 5.公部門各數位專案
+ 
 英文版 English version
 
 ###其它雜七雜八的資料
@@ -26,4 +31,4 @@ State of Privacy in Taiwan 2017
 
 ### [gitbook version](https://www.gitbook.com/book/twngo/state-of-privacy-in-taiwan/details) 
 
-草稿丟在本專案[wiki](https://github.com/twngo/privacytw/wiki),歡迎利用github功能（如issue）提供各方建議
+歡迎利用github功能（如issue）提供各方建議
