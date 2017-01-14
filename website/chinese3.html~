@@ -1,0 +1,891 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="no-js ie iem7" lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="no-js ie lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="no-js ie lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="no-js ie lt-ie9" lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><html class="no-js ie" lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><![endif]-->
+<!--[if !IE]><!--><html class="no-js" lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+<head>
+<meta charset="utf-8"/>
+<link rel="apple-touch-icon-precomposed" href="https://privacyinternational.org/sites/all/themes/omega/omega/apple-touch-icon-precomposed-114x114.png.pagespeed.ce.C9b7qLrPD1.png" sizes="114x114"/>
+<link rel="apple-touch-icon-precomposed" href="https://privacyinternational.org/sites/all/themes/omega/omega/apple-touch-icon-precomposed.png.pagespeed.ce.UdsG8WLaWo.png"/>
+<link rel="shortcut icon" href="https://privacyinternational.org/sites/all/themes/privacy_international_omega/favicon.ico" type="image/vnd.microsoft.icon"/>
+<meta name="HandheldFriendly" content="true"/>
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab"/>
+<meta name="MobileOptimized" content="width"/>
+<meta http-equiv="cleartype" content="on"/>
+<link rel="apple-touch-icon-precomposed" href="https://privacyinternational.org/sites/all/themes/omega/omega/apple-touch-icon-precomposed-72x72.png.pagespeed.ce.ZHUu6lVTyN.png" sizes="72x72"/>
+<link rel="apple-touch-icon-precomposed" href="https://privacyinternational.org/sites/all/themes/omega/omega/apple-touch-icon-precomposed-144x144.png.pagespeed.ce.uckQrdLnc2.png" sizes="144x144"/>
+<meta name="description" content="Introduction"/>
+<meta name="viewport" content="width=device-width"/>
+<meta name="generator" content="Drupal 7 (http://drupal.org)"/>
+<link rel="canonical" href="https://privacyinternational.org/node/978"/>
+<link rel="shortlink" href="https://privacyinternational.org/node/978"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:url" content="https://privacyinternational.org/node/978"/>
+<meta name="twitter:title" content="State of Privacy Chile"/>
+<meta name="twitter:description" content="Introduction"/>
+<title>State of Privacy Taiwan | Privacy International</title>
+<link rel="stylesheet" href="/A.sites,,_all,,_themes,,_omega,,_omega,,_css,,_modules,,_system,,_system.base.css,,qoim0kh+sites,,_all,,_themes,,_omega,,_omega,,_css,,_modules,,_system,,_system.menus.theme.css,,qoim0kh+sites,,_all,,_themes,,_omega,,_omega,,_css,,_modules,,_system,,_system.messages.theme.css,,qoim0kh+sites,,_all,,_themes,,_omega,,_omega,,_css,,_modules,,_system,,_system.theme.css,,qoim0kh+sites,,_all,,_modules,,_date,,_date_api,,_date.css,,qoim0kh+sites,,_all,,_themes,,_omega,,_omega,,_css,,_modules,,_aggregator,,_aggregator.theme.css,,qoim0kh+sites,,_all,,_themes,,_omega,,_omega,,_css,,_modules,,_comment,,_comment.theme.css,,qoim0kh+modules,,_node,,_node.css,,qoim0kh+sites,,_all,,_themes,,_omega,,_omega,,_css,,_modules,,_field,,_field.theme.css,,qoim0kh+sites,,_all,,_modules,,_toc_node,,_css,,_toc_node.css,,qoim0kh+sites,,_all,,_themes,,_omega,,_omega,,_css,,_modules,,_search,,_search.theme.css,,qoim0kh+sites,,_all,,_modules,,_views,,_css,,_views.css,,qoim0kh,Mcc.GMFvhYcq3l.css.pagespeed.cf.1IiGJtp5hS.css"><style>div.password-confirm{visibility:hidden}.password-strength{float:right;margin-top:1.2em;width:17em}.password-strength-title{float:left}.password-strength-text{float:right;font-weight:bold}.password-indicator{clear:both;height:.3em;width:100%;background-color:#c4c4c4}.password-indicator .indicator{height:100%;width:0%;background-color:#47c965}div.password-confirm{float:right;clear:both;width:17em;margin-top:1.5em}.form-type-password-confirm input{width:16em}.password-suggestions{margin:.7em 0;padding:.2em .5em;border:1px solid #b4b4b4}.user-profile-item__label{font-weight:bold}.profile{clear:both;margin:1em 0}.profile .user-picture{float:right;margin:0 1em 1em 0}.profile h3{border-bottom:1px solid #ccc}.profile dl{margin:0 0 1.5em 0}.profile dt{margin:0 0 .2em 0;font-weight:bold}.profile dd{margin:0 0 1em 0}</style><link rel="stylesheet" href="https://privacyinternational.org/sites/all/modules/ckeditor/css/ckeditor.css?oim0kh">
+<link type="text/css" rel="stylesheet" href="https://media.privacyinternational.org/Embed/video-js/video-js.css" media="all"/>
+<link rel="stylesheet" href="https://privacyinternational.org/sites/all/modules,_ctools,_css,_ctools.css,qoim0kh+modules,_webform,_css,_webform.css,qoim0kh+modules,_webform_civicrm,_css,_webform_civicrm_forms.css,qoim0kh+modules,_civicrm,_css,_civicrm.css,qoim0kh+modules,_ds,_layouts,_ds_2col_stacked,_ds_2col_stacked.css,qoim0kh+themes,_privacy_international_omega,_css,_privacy-international-omega.normalize.css,qoim0kh+themes,_privacy_international_omega,_css,_privacy-international-omega.hacks.css,qoim0kh+themes,_privacy_international_omega,_css,_privacy-international-omega.styles.css,qoim0kh.pagespeed.cc.EyOIvGk_e_.css">
+<!--[if lte IE 8]>
+<style>
+@import url("https://privacyinternational.org/sites/all/themes/privacy_international_omega/css/privacy-international-omega.no-query.css?oim0kh");
+</style>
+<![endif]-->
+<script src="https://privacyinternational.org/sites/all/modules/jquery_update/replace/jquery/1.7/jquery.min.js,qv=1.7.2.pagespeed.jm.80USM6bHIe.js" type="text/psajs" data-pagespeed-orig-index="0"></script>
+<script src="https://privacyinternational.org/misc,_jquery.once.js,qv==1.2+misc,_drupal.js,qoim0kh+sites,_all,_themes,_omega,_omega,_js,_no-js.js,qoim0kh+misc,_form.js,qv==7.53+sites,_all,_modules,_webform,_js,_webform.js,qoim0kh.pagespeed.jc.3Eb5v8jOiu.js" type="text/psajs" data-pagespeed-orig-index="1"></script><script type="text/psajs" data-pagespeed-orig-index="2">eval(mod_pagespeed_Rc_kSlNKHN);</script>
+<script type="https://privacyinternational.org/text/psajs" data-pagespeed-orig-index="3">eval(mod_pagespeed_SM_ppy22Nq);</script>
+<script type="https://privacyinternational.org/text/psajs" data-pagespeed-orig-index="4">eval(mod_pagespeed_OCJE$yST$v);</script>
+<script type="https://privacyinternational.org/text/psajs" data-pagespeed-orig-index="5">eval(mod_pagespeed_JTSqX5Y5ns);</script>
+<script src="https://media.privacyinternational.org/Embed/video-js/video.js" type="text/psajs" data-pagespeed-orig-index="6"></script>
+<script type="https://privacyinternational.org/text/psajs" data-pagespeed-orig-index="7">eval(mod_pagespeed_hD81wmk6Us);</script>
+<script src="https://privacyinternational.org/sites/all/libraries/share42/share42.js?oim0kh" type="text/psajs" data-pagespeed-orig-index="8"></script>
+<script src="https://privacyinternational.org/sites/all/themes/privacy_international_omega/js/privacy-international-omega.behaviors.js,qoim0kh.pagespeed.jm.Eg501tjois.js" type="text/psajs" data-pagespeed-orig-index="9"></script>
+<script type="text/psajs" data-pagespeed-orig-index="10">jQuery.extend(Drupal.settings,{"basePath":"\/","pathPrefix":"","urlIsAjaxTrusted":{"\/node\/978":true}});</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-978 node-type-state-of-surveillance-report section-node"><noscript><meta HTTP-EQUIV="refresh" content="0;url='https://privacyinternational.org/node/978?PageSpeed=noscript'" /><style><!--table,div,span,font,p{display:none} --></style><div style="display:block">Please click <a href="https://privacyinternational.org/node/978?PageSpeed=noscript">here</a> if you are not redirected within a few seconds.</div></noscript>
+<div class="l-page">
+<header class="l-header" role="banner">
+<div class="l-branding">
+<a href="/" title="Home" rel="home" class="site-logo"><script data-pagespeed-no-defer>(function(){for(var g="function"==typeof Object.defineProperties?Object.defineProperty:function(b,c,a){if(a.get||a.set)throw new TypeError("ES3 does not support getters and setters.");b!=Array.prototype&&b!=Object.prototype&&(b[c]=a.value)},h="undefined"!=typeof window&&window===this?this:"undefined"!=typeof global&&null!=global?global:this,k=["String","prototype","repeat"],l=0;l<k.length-1;l++){var m=k[l];m in h||(h[m]={});h=h[m]}var n=k[k.length-1],p=h[n],q=p?p:function(b){var c;if(null==this)throw new TypeError("The 'this' value for String.prototype.repeat must not be null or undefined");c=this+"";if(0>b||1342177279<b)throw new RangeError("Invalid count value");b|=0;for(var a="";b;)if(b&1&&(a+=c),b>>>=1)c+=c;return a};q!=p&&null!=q&&g(h,n,{configurable:!0,writable:!0,value:q});var t=this;function u(b,c){var a=b.split("."),d=t;a[0]in d||!d.execScript||d.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===c?d[e]?d=d[e]:d=d[e]={}:d[e]=c};function v(b){var c=b.length;if(0<c){for(var a=Array(c),d=0;d<c;d++)a[d]=b[d];return a}return[]};function w(b){var c=window;if(c.addEventListener)c.addEventListener("load",b,!1);else if(c.attachEvent)c.attachEvent("onload",b);else{var a=c.onload;c.onload=function(){b.call(this);a&&a.call(this)}}};var x;function y(b,c,a,d,e){this.h=b;this.j=c;this.l=a;this.f=e;this.g={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.i=d;this.b={};this.a=[];this.c={}}function z(b,c){var a,d,e=c.getAttribute("data-pagespeed-url-hash");if(a=e&&!(e in b.c))if(0>=c.offsetWidth&&0>=c.offsetHeight)a=!1;else{d=c.getBoundingClientRect();var f=document.body;a=d.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);d=d.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+d;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.g.height&&d<=b.g.width)}a&&(b.a.push(e),b.c[e]=!0)}y.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&z(this,b)};u("pagespeed.CriticalImages.checkImageForCriticality",function(b){x.checkImageForCriticality(b)});u("pagespeed.CriticalImages.checkCriticalImages",function(){A(x)});function A(b){b.b={};for(var c=["IMG","INPUT"],a=[],d=0;d<c.length;++d)a=a.concat(v(document.getElementsByTagName(c[d])));if(a.length&&a[0].getBoundingClientRect){for(d=0;c=a[d];++d)z(b,c);a="oh="+b.l;b.f&&(a+="&n="+b.f);if(c=!!b.a.length)for(a+="&ci="+encodeURIComponent(b.a[0]),d=1;d<b.a.length;++d){var e=","+encodeURIComponent(b.a[d]);131072>=a.length+e.length&&(a+=e)}b.i&&(e="&rd="+encodeURIComponent(JSON.stringify(B())),131072>=a.length+e.length&&(a+=e),c=!0);C=a;if(c){d=b.h;b=b.j;var f;if(window.XMLHttpRequest)f=new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(r){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(D){}}f&&(f.open("POST",d+(-1==d.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}}function B(){var b={},c;c=document.getElementsByTagName("IMG");if(!c.length)return{};var a=c[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var d=0;a=c[d];++d){var e=a.getAttribute("data-pagespeed-url-hash");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].o&&a.height>=b[e].m)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b}var C="";u("pagespeed.CriticalImages.getBeaconData",function(){return C});u("pagespeed.CriticalImages.Run",function(b,c,a,d,e,f){var r=new y(b,c,a,e,f);x=r;d&&w(function(){window.setTimeout(function(){A(r)},0)})});})();pagespeed.CriticalImages.Run('/ngx_pagespeed_beacon','https://privacyinternational.org/node/978','2v9-huHEym',true,false,'Hc7SqfLVdSs');</script><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAmcAAACjAQMAAAD1mivZAAAABlBMVEUZFgr///8BHU7IAAAAAnRSTlP/AOW3MEoAAAOxSURBVGje7do9jus2GIXhl2ChLtxAMFwKt5QyxUWopX1L0RJYshB4UlDyz1iea3kC5CKhWoMPTFmSz3ds9A8ejaENbWhD+39q+NMakGTgJPOFLDGtBEkV0uxeVndtknXTF7LarhmEmdOakwFB5gvpqs3gDakxndGQ9Xe4aaEySQ1wRtZ6UssGeJmvN9oKsJDU3+lLWgNI1vfrK1EroeKlClBIqsRTWrS+302LBS+VrkWVk1qwvl+/3mgL4CpBhfS+VokLTjLAV4IW8iltsn72/EpQJS04aQamlUl2RguFyZwgmW93WlxCw8vQCW3Fm9NyoxlIkGtseM2nNOHNqRLNNyYV8qapJeGEO6XN3pxWonldtdbvzplXHyUNLbx0hKENbWhDG9rQhja0X1tT62OL0+xkXppxDYAPvJSl+lrqPdYMtwLwG04tvqsZ91qAXMO3NX/R4uLf1RayeWnBVwCmGeB9LV20pLan/je1smtTIUnf1qJ5qTD1Adov39HqZ60A5Le10LWwkKW5fxj6nlYJC5JmtwJvXyEr073W+4PvatHYr2fevrMa3ry0Es1JMlTg7F3/5cvnu5rRcQ1taL+81gi9+vwA4Mdex2XJDjua+qx3vGjpUXOSIdX+HSEDCLOXDKS+JEr9yTr9TCM90YB01exAiwdakJE3zV21FQjqS6J6N/eCNslIqmS1W60CXoXQtflACweaP9YWwH2tTQeakxFVyVq3epkwbydQfUmUZtJLGsfaDJALvmscaP6JFh41ANKNFl/TsjGpklW36vuqxYJ7rrkjLR1pPWGHXWtHGmq9hO5VezSvmWT4B63v+rKkQfhSS5LMa7lq5XKqZ7/ieygjP9fyg1ZJhnvQKpPWq7a+rEWDXYu71i9bXyBt2nSjvTgZvXBMQxva0IY2tKENbWj/otYzklY+ZySczKtAngGmS+LaMpJWiAuAE/eJqyfOO60XthUyAP4mv1WmbUnf2Ssah9qK69lS2vPxoyY+595e2K6PGnm+LOla7pXk11o2rwZ/0U9O19qe8KWZOD/R5s/actVCb74n6WZe6JqXyoFmj1oyL8GPe23eZhnJdi39XCtXrQ+1m2bbnCUtRJ5oy6MW+w8EP7aBe9OWbQbsWu81f65t9a/xZ9fyppVtPpXKrsUHrTxqYdfSrVaBadM+nmn1s7ZVrEvXykVr21wvVT4I0npK+6NradP2zkFa+b1r4UFbP2uta4U/yHfa0vuQY+308fRfXaMxG9rQhvaf1f4GongxifyXipAAAAAASUVORK5CYII=" alt="Home" data-pagespeed-url-hash="1515421080" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)"/><</a><img src="privacytw.png">
+<h1 class="site-name">
+<a href="/" title="Home" rel="home"><span>Privacy International</span></a>
+</h1>
+</div>
+<div class="l-region l-region--header">
+<div id="block-webform-client-block-804" class="block block--webform block--webform-client-block-804">
+<div class="block__content">
+<form class="webform-client-form webform-client-form-804 webform-client-form-804" action="978" method="post" id="webform-client-form-804" accept-charset="UTF-8"><div><fieldset class="webform-component-fieldset webform-component--civicrm-1-contact-1-fieldset-fieldset form-wrapper"><div class="fieldset-wrapper"><div class="form-item webform-component webform-component-email webform-component--civicrm-1-contact-1-fieldset-fieldset--civicrm-1-contact-1-email-email">
+<label class="element-invisible" for="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-email-email">Email </label>
+<div class="description">Get email updates</div>
+<input class="email civicrm-enabled form-text form-email" placeholder="your@email.com" type="email" id="edit-submitted-civicrm-1-contact-1-fieldset-fieldset-civicrm-1-contact-1-email-email" name="submitted[civicrm_1_contact_1_fieldset_fieldset][civicrm_1_contact_1_email_email]" size="20"/>
+</div>
+</div></fieldset>
+<input type="hidden" name="details[sid]"/>
+<input type="hidden" name="details[page_num]" value="1"/>
+<input type="hidden" name="details[page_count]" value="1"/>
+<input type="hidden" name="details[finished]" value="0"/>
+<input type="hidden" name="form_build_id" value="form-CsMF74J7Bjjv6-gIwtBs6-BvwTOZmAhJiVpkh70Nc4I"/>
+<input type="hidden" name="form_id" value="webform_client_form_804"/>
+<div class="form-actions"><input class="webform-submit button-primary form-submit" type="submit" name="op" value="Join!"/></div></div></form> </div>
+</div>
+</div>
+</header>
+<div class="l-main">
+<div class="l-content" role="main">
+
+<h1>State of Privacy Taiwan</h1>
+<div id="table-of-contents-links"><a name="table-of-contents"></a><ul class="toc-node-numbers"><li class="toc-node-level-1"><a href="978#toc-1" class="active"><span class="toc-number">1</span> <span class="toc-text">Taiwan</span></a></li>
+<li class="toc-node-level-1"><a href="978#toc-2" class="active"><span class="toc-number">2</span> <span class="toc-text">Introduction</span></a></li>
+<li class="toc-node-level-1"><a href="978#toc-3" class="active"><span class="toc-number">3</span> <span class="toc-text">Right to Privacy</span></a></li>
+<li class="toc-node-level-1"><a href="978#toc-4" class="active"><span class="toc-number">4</span> <span class="toc-text">Communication Surveillance</span></a></li>
+<li class="toc-node-level-1"><a href="978#toc-5" class="active"><span class="toc-number">5</span> <span class="toc-text">Data Protection</span></a></li>
+<li class="toc-node-level-1"><a href="978#toc-6" class="active"><span class="toc-number">6</span> <span class="toc-text">Identification Schemes</span></a></li>
+<li class="toc-node-level-1"><a href="978#toc-7" class="active"><span class="toc-number">7</span> <span class="toc-text">Policies and Sectoral Initiatives</span></a></li>
+</ul></div><div about="/node/978" typeof="sioc:Item foaf:Document" class="ds-2col-stacked node node--state-of-surveillance-report view-mode-full node--full node--state-of-surveillance-report--full clearfix">
+<div class="group-header">
+</div>
+<div class="group-left">
+<div class="field field--name-field-country-er field--type-entityreference field--label-hidden"><div class="field__items"><div class="field__item even"><article about="/node/760" typeof="sioc:Item foaf:Document" role="article" class="node node--country node-teaser node--teaser node--country--teaser"><header><div class="toc-item-anchor"><a name="toc-1"></a></div><h2 class="node__title toc-headings"><a href="760" rel="bookmark">Chile</a></h2>
+<span property="dc:title" content="Chile" class="rdf-meta element-hidden"></span> </header><div class="node__content">
+<div class="field field--name-field-country-flag field--type-image field--label-hidden"><div class="field__items"><div class="field__item even"><img typeof="foaf:Image" src="https://rawgit.com/hjnilsson/country-flags/master/svg/tw.svg" width="220" height="147" alt="" data-pagespeed-url-hash="2627618672" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)"></div></div></div> </div>
+</article></div></div></div><div id="share42-widget-1484362545" class="share42init" data-url="https://privacyinternational.org/node/978" data-title="State of Privacy Chile" data-image="" data-description="" data-path="/sites/all/libraries/share42/" data-icons-file="icons.png" data-zero-counter="0" data-top1="200" data-top2="50" data-margin="-70"></div><div class="field field--name-changed-date field--type-ds field--label-above"><div class="field__label">Last modified:&nbsp;</div><div class="field__items"><div class="field__item even">Friday, November 4, 2016 - 12:10</div></div></div> </div>
+<div class="group-right">
+<div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even" property="content:encoded"><div class="field field-name-field-introduction-header field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<div class="toc-item-anchor"><a name="toc-2"></a></div><h2 class=" toc-headings">Introduction</h2>
+</div>
+</div>
+</div>
+<div class="field-collection-container clearfix">
+<div class="field field-name-field-introduction-state-of-priv field-type-field-collection field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<div class="field-collection-view clearfix view-mode-full field-collection-view-final">
+<div class="entity entity-field-collection-item field-collection-item-field-introduction-state-of-priv clearfix" about="/field-collection/field-introduction-state-of-priv/382" typeof="">
+<div class="content">
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p><strong>Acknowledgement</strong></p>
+<p>台灣隱私現況報告是參考Privacy International 全球隱私現況專案，由<em>twngo.xyz</em>發起的工作計畫。我們希望藉由這番整理，讓國人更了解隱私的意義以及其在當前社會中的法律框架與所面臨的各種挑戰。本專案是一場持續而動態的過程，也歡迎有興趣的朋友一起提供建議與貢獻</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field field-name-field-right-to-privacy-header field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<div class="toc-item-anchor"><a name="toc-3"></a></div><h2 class=" toc-headings">隱私權</h2>
+</div>
+</div>
+</div>
+<div class="field-collection-container clearfix">
+<div class="field field-name-field-right-to-privacy-state-of- field-type-field-collection field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<div class="field-collection-view clearfix view-mode-full">
+<div class="entity entity-field-collection-item field-collection-item-field-right-to-privacy-state-of- clearfix" about="/field-collection/field-right-to-privacy-state-of-/293" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>憲法保障</h3>
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p>1946年國民政府在南京通過的中華民國憲法第12條：「人民有秘密通訊之自由」。從憲法高度肯認人民享有隱私的基本權利。憲法第23條：「以上各條列舉之自由權利，除為防止妨礙他人自由、避免緊急危難、維持社會秩序，或增進公共利益所必要者外，不得以法律限制之。」則對人民基本權利，在何種情況下能夠予以限制的必要條件作了大致的界定。這二條憲法條文，也成了臺灣在推進隱私保護的過程中，對於官方政策與法律制定上檢驗其是否必要與合憲的重要拉扯戰場。</p>
+<p>憲政推動在中華民國的歷史進程中並不順利，1946年起國民黨政府在國共內戰下節節敗退，徹守到臺灣，1949年五月頒佈《臺灣省戒嚴令》，在長達三十八年的戒嚴年代下，人民的基本權利都受到獨大的行政權嚴厲打壓。</p>
+<p>1990年代台灣本土民主化改革運動，憲法保障的人民基本權利才慢慢得以恢復。例如2005大法官發佈憲法釋字第 603 號文即申明：「維護人性尊嚴與尊重人格自由發展，乃自由民主憲政秩序之核心價值。隱私權雖非憲法明文列舉之權利，惟基於人性尊嚴與個人主體性之維護及人格發展之完整，並為保障個人生活私密領域免於他人侵擾及個人資料之自主控制，隱私權乃為不可或缺之基本權利，而受憲法第二十二條所保障。其中就個人自主控制個人資料之資訊隱私權而言，乃保障人民決定是否揭露其個人資料、及在何種範圍內、於何時、以何種方式、向何人揭露之決定權，並保障人民對其個人資料之使用有知悉與控制權及資料記載錯誤之更正權。惟憲法對資訊隱私權之保障並非絕對，國家得於符合憲法第二十三條規定意旨之範圍內，以法律明確規定對之予以適當之限制。」[1]。又如大法官會議2007年在釋字第631號解釋文[2]中進一步闡釋：憲法第十二條旨在確保人民就通訊之有無、對象、時間、方式及內容等事項，有不受國家及他人任意侵擾之權利。國家採取限制手段時，除應有法律依據外，限制之要件應具體、明確，不得逾越必要之範圍，所踐行之程序並應合理、正當，方符憲法保護人民秘密通訊自由之意旨。</p>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field-item odd">
+<div class="field-collection-view clearfix view-mode-full field-collection-view-final">
+<div class="entity entity-field-collection-item field-collection-item-field-right-to-privacy-state-of- clearfix" about="/field-collection/field-right-to-privacy-state-of-/294" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>區域與國際公約批准</h3>
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p>2009年台灣立法院正式批淮聯合國兩大人權公約，並另以「兩公約施行法」方式將國際公約內國法化，填補台灣非聯合國會員國家，其公約無被聯合國存放受理之約束力。此舉表示，台灣政府願意依國際人權公約之規範，克盡尊重、保護與促進人權實現之義務。故公民與政治權利國際公約(<a href="http://www.ohchr.org/en/professionalinterest/pages/ccpr.aspx" target="_blank">The International Covenant on Civil and Political Rights</a>)第17條：「一、任何人之私生活、家庭、住宅或通信，不得無理或非法侵擾，其名譽及信用，亦不得非法破壞。二、對於此種侵擾或破壞，人人有受法律保護之權利。」此國際人權公約亦對台灣產生法律拘束力。</p>
+<p>此後台灣陸續以「公約施行法」方式將：消除對婦女一切形式歧視公約(CDEAW)、兒童權利國際公約(CRD)、身心障礙者權利國際公約(CRPD)等國際公約內國法化，以示台灣政府願意克守人權公約的國際承諾。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field field-name-field-communication-surveillance field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<div class="toc-item-anchor"><a name="toc-4"></a></div><h2 class=" toc-headings">通訊監控</h2>
+</div>
+</div>
+</div>
+<div class="field-collection-container clearfix">
+<div class="field field-name-field-communication-survcontent field-type-field-collection field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<div class="field-collection-view clearfix view-mode-full">
+<div class="entity entity-field-collection-item field-collection-item-field-communication-survcontent clearfix" about="/field-collection/field-communication-survcontent/295" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>Introduction</h3>
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field-item odd">
+<div class="field-collection-view clearfix view-mode-full">
+<div class="entity entity-field-collection-item field-collection-item-field-communication-survcontent clearfix" about="/field-collection/field-communication-survcontent/296" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>Surveillance laws</h3>
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field-item even">
+<div class="field-collection-view clearfix view-mode-full">
+<div class="entity entity-field-collection-item field-collection-item-field-communication-survcontent clearfix" about="/field-collection/field-communication-survcontent/297" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>Surveillance actors</h3>
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p><strong>Security and law enforcement agencies</strong></p>
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field-item odd">
+<div class="field-collection-view clearfix view-mode-full">
+<div class="entity entity-field-collection-item field-collection-item-field-communication-survcontent clearfix" about="/field-collection/field-communication-survcontent/298" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>Surveillance capabilities</h3>
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p><strong>Interception tools</strong></p>
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field-item even">
+<div class="field-collection-view clearfix view-mode-full">
+<div class="entity entity-field-collection-item field-collection-item-field-communication-survcontent clearfix" about="/field-collection/field-communication-survcontent/299" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>Surveillance oversight, checks and balances</h3>
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field-item odd">
+<div class="field-collection-view clearfix view-mode-full">
+<div class="entity entity-field-collection-item field-collection-item-field-communication-survcontent clearfix" about="/field-collection/field-communication-survcontent/300" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>Surveillance case law</h3>
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p></p>
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field-item even">
+<div class="field-collection-view clearfix view-mode-full field-collection-view-final">
+<div class="entity entity-field-collection-item field-collection-item-field-communication-survcontent clearfix" about="/field-collection/field-communication-survcontent/301" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>Examples of surveillance</h3>
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field field-name-field-data-protection-header field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<div class="toc-item-anchor"><a name="toc-5"></a></div><h2 class=" toc-headings">個人資料保護</h2>
+</div>
+</div>
+</div>
+<div class="field-collection-container clearfix">
+<div class="field field-name-field-data-protection field-type-field-collection field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<div class="field-collection-view clearfix view-mode-full">
+<div class="entity entity-field-collection-item field-collection-item-field-data-protection clearfix" about="/field-collection/field-data-protection/302" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>個人資料保護法規</h3>
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p>台灣在2010年修正了1995年通過的《電腦處理個人資料保護法》，當時之立法背景為因為國家欲成立「亞太營運中心」之上位政策，參考OECD Guidelines on the Protection of Privacy and Transborder Flows of Personal Data[1]之八大原則訂定。2010年之修法，則擴大了個人資料的保護範疇，不再僅限於「電腦處理」的個人資料，規範約束對像也不再僅限於過去會涉及大量收集用戶個資的特定產業，而是不管是個人或組織，公部門或私人企業，都必須在本法的約束下來收集處理使用個人資料。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field-item odd">
+<div class="field-collection-view clearfix view-mode-full">
+<div class="entity entity-field-collection-item field-collection-item-field-data-protection clearfix" about="/field-collection/field-data-protection/303" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>個資問責</h3>
+
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p>雖然台灣對於個人資料的立法保護堪稱先行，但光只有法條通過，並無法確認人民的個人資料便足以得到保護，尤其是政府機制當中並無設置受理處理相關事務的專責機構，如在加拿大設有隱私保護司，歐盟亦有個人資料與隱私保護專員辦公室，這些機關都可以事先針對政府或企業大規模的個資收集計畫提供建議或批評，定期發表個資隱私事件的現況報告，針對嚴重個資侵害主動進行調查等職權任務。因此在台灣，個資法僅能被動在權利受害之後，被用來進行司法救濟，欠缺事先預防與事後系統化檢討改善的保護推動機制。</p>
+<p><strong>政府資訊公開</strong></p>
+<p>為號稱推動陽光政策，2005年台灣三讀通過《政府資訊公開法》[2]，而該法為衡平其它權利之衝突，予第十八條賦予「例外」不予公開或限制的政府資訊之9大情況條件：
+</p>
+<ol>
+<li>經依法核定為國家機密或其他法律、法規命令規定應秘密事項或限制、禁止公開者。</li>
+<li>公開或提供有礙犯罪之偵查、追訴、執行或足以妨害刑事被告受公正之裁判或有危害他人生命、身體、自由、財產者。</li>
+<li>政府機關作成意思決定前，內部單位之擬稿或其他準備作業。但對公益有必要者，得公開或提供之。</li>
+<li>政府機關為實施監督、管理、檢 (調) 查、取締等業務，而取得或製作監督、管理、檢 (調) 查、取締對象之相關資料，其公開或提供將對實施目的造成困難或妨害者。</li>
+<li>有關專門知識、技能或資格所為之考試、檢定或鑑定等有關資料，其公開或提供將影響其公正效率之執行者。</li>
+<li>公開或提供有侵害個人隱私、職業上秘密或著作權人之公開發表權者。但對公益有必要或為保護人民生命、身體、健康有必要或經當事人同意者，不在此限。</li>
+<li>個人、法人或團體營業上秘密或經營事業有關之資訊，其公開或提供有侵害該個人、法人或團體之權利、競爭地位或其他正當利益者。但對公益有必要或為保護人民生命、身體、健康有必要或經當事人同意者，不在此限。</li>
+<li>為保存文化資產必須特別管理，而公開或提供有滅失或減損其價值之虞者。</li>
+<li>公營事業機構經營之有關資料，其公開或提供將妨害其經營上之正當利益者。但對公益有必要者，得公開或提供之。 政府資訊含有前項各款限制公開或不予提供之事項者，應僅就其他部分公開或提供之。</l></ol>
+<p>而該法自施行以來，申請人所詬病者，乃在行政機關常依第十八條之種種例外情況拒絕公開，讓「例外」成了「常態」。申請人若欲走上法庭尋求公正第三者之司法裁決，則依目前進入司法程序的案件判決結果來看，司法機關顯然較傾向尊重行政部門而作保守限縮之解釋。</p>
+
+<p><strong>消費者與信用資料保護</strong></p>
+<p>在消費者（使用者）保護上，行政機關中所設置的「消保會」與公平交易委員會鮮少涉及個人資料保護業務，或提出相關政策措施的指引方針。</p>
+<p>金融業聯合徵信中心是台灣唯一一家提供個人與企業的財務信用報告（credit report）的機構，其掌握全台最完整詳盡的私人財務資訊資料庫。民眾向銀行申請貸款、信用卡時，銀行會向聯合徵信中心查詢申請人之信用狀況資料，以評估其財務狀況。該機構由金融業業者組成，其對民眾的財務記錄資料與信用報告之使用規範，純靠金融業者自律，欠缺外控監督機制，無法律或行政命令層級的法規保護。</p> 
+<p>在《個人資料保護法》第34條規定：如有同一原因事實造成多數當事人權利受侵害之事件，可委託財團法人或公益社團法人進行集體訴訟（20人以上）。此條文之立法乃參考《消費者保護法》之設計，為保護多數但個別微小之個資受害者以集體行動方式，減少個別訴訟成本。可惜至今在實務上，尚未見任何個案依個資法提起集體訟訴。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field-item even">
+<div class="field-collection-view clearfix view-mode-full">
+<div class="entity entity-field-collection-item field-collection-item-field-data-protection clearfix" about="/field-collection/field-data-protection/304" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>個資指標性案件</h3>
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p>待補：健保署「全民健保資料庫」行政訟訴案</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field-item odd">
+<div class="field-collection-view clearfix view-mode-full field-collection-view-final">
+<div class="entity entity-field-collection-item field-collection-item-field-data-protection clearfix" about="/field-collection/field-data-protection/305" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>近年重大的個資外洩事件</h3>
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p>Privacy International is not aware of any examples of data breaches in Chile. Please send any tips or information to: <a href="mailto:research@privacyinternational.org">research@privacyinternational.org</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field field-name-field-identification-schemes-hea field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<div class="toc-item-anchor"><a name="toc-6"></a></div><h2 class=" toc-headings">身份識別政策</h2>
+</div>
+</div>
+</div>
+<div class="field-collection-container clearfix">
+<div class="field field-name-field-identification-schemes field-type-field-collection field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<div class="field-collection-view clearfix view-mode-full">
+<div class="entity entity-field-collection-item field-collection-item-field-identification-schemes clearfix" about="/field-collection/field-identification-schemes/306" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>戶籍制度與國民身份證</h3>
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p>台灣在日治時代，最高行政機關總督府為方便管理殖民地，於1905年全台灣第一次進行人口普查以明瞭全台戶口狀態，提供警察治安資料。1945年國民黨政府接收台灣，不僅接收殖民政權留下的資源,也部分繼承其類似種族隔離的戶籍制度。1946年《戶籍法》開始在台灣實施，相關政策包括個人與戶籍登記二合一、推行身份證制度等。戒嚴初期，國民黨政府為達「肅奸清匪，安定社會，使匪諜無可乘之隙，地方無竊盜之虞」等理由，推動戶警合一的戶籍行政措施，以期有效地整頓戶政與監控民眾，確保社會治安與維持政權不受人民強列質欵挑戰的穩定。解嚴後民主改革，1992年戶政業務方慢慢回歸由民政單位掌理，廢除戶籍登記上的省籍分類[2]與父系繼承，不再登錄行業、職業與教育程度等個人資訊。</p>
+
+</p>近年來，戶籍登記雖逐漸與個人財產登記、稅收申報(例如戶內各項財產劃分與夫妻所得分開報稅)脫鉤，戶口名簿與戶籍謄本的法定效用下降，慢慢成為輔助性的人口管理證件，但在台灣法律架構下，具有戶籍之國民才真正享有憲法保障的完整權利與義務，而無戶籍國民不能行使公民權利如投票或參選（台灣並無其它選舉人投票註冊登記規定），連動的一些社會福利或社會補助措施，如全民健康保險也失去基本資格。2005年大法官會議在釋字603字理由書中指出：「國民身分證之發給對於國民之身分雖不具形成效力，而僅為一種有效之身分證明文件。惟因現行規定須出示國民身分證或檢附影本始得行使權利或辦理各種行政手續之法令眾多.......，故國民身分證已成為我國人民經營個人及團體生活辨識身分之重要文件，其發給與否，直接影響人民基本權利之行使。」在日常生活中求職參加考試、銀行郵局開戶、申辦手機門號、申辦信用卡、購買不動産等都必須提供身份證證件，身分證在一般人日常生活中的重要性不言可喻。</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field-item even">
+<div class="field-collection-view clearfix view-mode-full field-collection-view-final">
+<div class="entity entity-field-collection-item field-collection-item-field-identification-schemes clearfix" about="/field-collection/field-identification-schemes/308" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>國民身份證與大型資料庫</h3>
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p>台灣換發身份證的主管機關為內政部戶政司。自1947年第一代國民身份證至今已經五代換發，1995年開始進行電腦數位化作業。現行（第六代）國民身份證記載了：大頭照、姓名、身份號字號及條碼、性別、出生年月日、父母配偶姓名、戶籍地址、出生地、役別、發照日期等資料。凡於臺灣地區設有戶籍且滿十四歲以上人民皆領有身份證；未滿十四歲者，則以用戶口名簿或戶籍謄本代替。依內政部戶政司資料，目前全台灣領有身份證者人數約為1880萬[3]，其佔全台15歲以上(2090萬)之9成人口。</p>
+<p>因「戶籍法」的國民戶籍申報規定，讓政府利用配發國民身份證的管制手段，建置了全台灣最完整的人口資料庫，幾乎每一位國民從出生、結婚、生子（含認領、收養、終止收養、監護）、居住處所、乃至死亡的人生歷程皆記載於其中。這個全民資料庫的權限使用者，除原主管機關戶政司，我們並不知道其是否限制它公務機關使用或是有明確的法律程序規範，然目前僅依行政內規層級的《國民身分證及戶口名簿製發相片影像檔建置管理辦法》中模糊授權。再者,《個資法》第8條第二項對公務機關免去告與再次請求同意使用之義務的例外規定，也成為其它公務機關可以引該條文來作為規避之授權絛款。</p> 
+<p>內政部預計在2018年全面換發第七代國民身分證。這一波的國民身份證改革將包括：讓身分證「智慧化」晶片化，引入自然人憑證功能[4]以建立全民的「網路身分」，即所謂「智慧一卡通」策略。此舉將整合政府各相關系統如：國稅局報稅、交通駕行照搭捷卡、<strike>衛福的全民健保卡看病</strike>等功能，換發晶片身分證。</p>
+<p>從公權力治理角度，戶籍管理是個人享受教育、參政權利、負擔兵役納稅等義務之依據。各項戶籍登記及人口統計資料，以作為政府施政規劃、國力調查、人力資源運用、學術研究及工商企業發展之重要參考依據。由戶籍管理延申的國民身份證換發政策，在今日台灣卻成了集中化最為依賴的唯一個人身份識別證明，也成為公務機關與私人單位用來鑑別的「必要」文件，若無國民身份證則幾乎無法處理日常生活中參與社會活動的種種門檻要求。隱私乃基於人性尊嚴與個人主體性之維護，保障個人生活私密領域免於他人侵擾及個人資料之自主控制。其中個人自主控制其個人資料之資訊隱私權，保障人民決定是否揭露其個人資料、及在何種範圍內、於何時、以何種方式、向何人揭露之決定權，並保障人民對其個人資料之使用有知悉與控制權及資料記載錯誤之更正權。雖然此隱私與個人自主權非為絕對不可侵犯，但在一個憲政法國家裏，若因國家安全、社會公益，其他人權利等因素，須對個人隱私造成侵害等，則必先進行各種衡酌考量確保確合於目的之正當使用及維護資訊安全，故國家蒐集人民資訊尤須明確以法律制定之。然而在「戶籍法」中， 政府對於建置全國國民戶籍與身份證資料庫之目的與採行手段的合理與否，一直欠缺其立法理由與目的說明，反而以存在即是合理，甚致更思不斷擴充此全民資料庫的筆數與收集資料內容。誠如在前述大法官釋字603字理由書中指出：「國民身分證之發給對於國民之身分雖不具形成效力，而僅為一種有效之身分證明文件」換言之，不能因為個人不願提供國民身份證或僅提供其它的身份識別證明，即不問因由情況地剝奪了人民參與各種社會活動的權利。</p>
+
+#### 其它大型資料庫
+
+1. 法眼系統。由法務部調查局建構之資料庫系統，介面提供辦案人員連線查詢犯罪嫌疑人年籍、戶役政等相關資料，法務部主張其是基於執行法定職掌業務所需，亦符合個人資料保護法所定之維護國家安全或增進公共利益之特定目的，並無非法侵害或無理侵擾人民權益之情形。（公政公約第二次官方報告第280段 ）然對此資料庫到底收錄了多少筆國民資料，資料內容類型、資料庫取用權限等設立依據和管理監督辦法卻極不透明，不對外公開，無外部獨立監控機制來了解其運作是否違規合理。
+
+2. 指紋資料庫:據行政機關所稱，目前政府已有七百三十四萬餘筆國民指紋資料，其中包括犯罪嫌疑人之指紋與役男指紋資料為主。[5]
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field-item even">
+<div class="field-collection-view clearfix view-mode-full field-collection-view-final">
+<div class="entity entity-field-collection-item field-collection-item-field-identification-schemes clearfix" about="/field-collection/field-identification-schemes/308" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>其它大型資料庫</h3>
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p>1. 法眼系統。由法務部調查局建構之資料庫系統，介面提供辦案人員連線查詢犯罪嫌疑人年籍、戶役政等相關資料，法務部主張其是基於執行法定職掌業務所需，亦符合個人資料保護法所定之維護國家安全或增進公共利益之特定目的，並無非法侵害或無理侵擾人民權益之情形。（公政公約第二次官方報告第280段 ）然對此資料庫到底收錄了多少筆國民資料，資料內容類型、資料庫取用權限等設立依據和管理監督辦法卻極不透明，不對外公開，無外部獨立監控機制來了解其運作是否違規合理。</p>
+<p>2. 指紋資料庫:據行政機關所稱，目前政府已有七百三十四萬餘筆國民指紋資料，其中包括犯罪嫌疑人之指紋與役男指紋資料為主。[5]</p> 
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field field-name-field-policies-and-sectorial-hea field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<div class="toc-item-anchor"><a name="toc-7"></a></div><h2 class=" toc-headings">Policies and Sectoral Initiatives</h2>
+</div>
+</div>
+</div>
+<div class="field-collection-container clearfix">
+<div class="field field-name-field-policies-and-sectorial-ini field-type-field-collection field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<div class="field-collection-view clearfix view-mode-full">
+<div class="entity entity-field-collection-item field-collection-item-field-policies-and-sectorial-ini clearfix" about="/field-collection/field-policies-and-sectorial-ini/309" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>Cybersecurity policy</h3>
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field-item odd">
+<div class="field-collection-view clearfix view-mode-full">
+<div class="entity entity-field-collection-item field-collection-item-field-policies-and-sectorial-ini clearfix" about="/field-collection/field-policies-and-sectorial-ini/310" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>Cybercrime</h3>
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field-item even">
+<div class="field-collection-view clearfix view-mode-full">
+<div class="entity entity-field-collection-item field-collection-item-field-policies-and-sectorial-ini clearfix" about="/field-collection/field-policies-and-sectorial-ini/311" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>Encryption</h3>
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p>There is no explicit mention of encryption in Chilean law.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field-item odd">
+<div class="field-collection-view clearfix view-mode-full">
+<div class="entity entity-field-collection-item field-collection-item-field-policies-and-sectorial-ini clearfix" about="/field-collection/field-policies-and-sectorial-ini/312" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>Licensing of industry</h3>
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p><strong>Regulatory bodies</strong></p>
+<p></p>
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field-item even">
+<div class="field-collection-view clearfix view-mode-full">
+<div class="entity entity-field-collection-item field-collection-item-field-policies-and-sectorial-ini clearfix" about="/field-collection/field-policies-and-sectorial-ini/313" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>E-governance/digital agenda</h3>
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field-item odd">
+<div class="field-collection-view clearfix view-mode-full">
+<div class="entity entity-field-collection-item field-collection-item-field-policies-and-sectorial-ini clearfix" about="/field-collection/field-policies-and-sectorial-ini/314" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>Health sector and e-health</h3>
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field-item even">
+<div class="field-collection-view clearfix view-mode-full">
+<div class="entity entity-field-collection-item field-collection-item-field-policies-and-sectorial-ini clearfix" about="/field-collection/field-policies-and-sectorial-ini/315" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>Smart policing</h3>
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p>Privacy International is not aware of any smart policing issues in Chile. Please send any tips or information to: <a href="mailto:research@privacyinternational.org">research@privacyinternational.org</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field-item odd">
+<div class="field-collection-view clearfix view-mode-full">
+<div class="entity entity-field-collection-item field-collection-item-field-policies-and-sectorial-ini clearfix" about="/field-collection/field-policies-and-sectorial-ini/316" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>Transport</h3>
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field-item even">
+<div class="field-collection-view clearfix view-mode-full">
+<div class="entity entity-field-collection-item field-collection-item-field-policies-and-sectorial-ini clearfix" about="/field-collection/field-policies-and-sectorial-ini/317" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>Smart cities</h3>
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field-item odd">
+<div class="field-collection-view clearfix view-mode-full">
+<div class="entity entity-field-collection-item field-collection-item-field-policies-and-sectorial-ini clearfix" about="/field-collection/field-policies-and-sectorial-ini/318" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>Migration</h3>
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field-item even">
+<div class="field-collection-view clearfix view-mode-full">
+<div class="entity entity-field-collection-item field-collection-item-field-policies-and-sectorial-ini clearfix" about="/field-collection/field-policies-and-sectorial-ini/319" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>Emergency response</h3>
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field-item odd">
+<div class="field-collection-view clearfix view-mode-full">
+<div class="entity entity-field-collection-item field-collection-item-field-policies-and-sectorial-ini clearfix" about="/field-collection/field-policies-and-sectorial-ini/320" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>Humanitarian and development programmes</h3>
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="field-item even">
+<div class="field-collection-view clearfix view-mode-full field-collection-view-final">
+<div class="entity entity-field-collection-item field-collection-item-field-policies-and-sectorial-ini clearfix" about="/field-collection/field-policies-and-sectorial-ini/321" typeof="">
+<div class="content">
+<div class="field field-name-field-subtitle field-type-text field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<h3>Social media</h3>
+</div>
+</div>
+</div>
+<div class="field field-name-field-body field-type-text-with-summary field-label-hidden view-mode-full">
+<div class="field-items">
+<div class="field-item even">
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><span property="dc:title" content="State of Privacy Chile" class="rdf-meta element-hidden"></span></p>
+</div></div></div> </div>
+<div class="group-footer">
+</div>
+</div>
+</div>
+</div>
+<footer class="l-footer" role="contentinfo">
+<div class="l-region l-region--footer">
+<div id="block-block-6" class="block block--block block--block-6">
+<div class="block__content">
+<p><a class="cc" href="https://creativecommons.org/licenses/by-sa/4.0/"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAAfCAMAAABUFvrSAAAABGdBTUEAALGOfPtRkwAAAb9QTFRF////////////AAAADQ4NDg4OEBAQGxsbICAgIx8gJCQkKCgoKCkoKSkpKicnLS0tMDAwMS0uMjMxNTY1Pj8+Pzc5QEBAQ0RDUFBQUFFQXV5dYGBgY19hbmxscHBwcHJvdnN0eXx5fH98fX98gICAgoWChIGChIWEhIaEiYyJjoeLj4+PkY+PkZORkZSRk5iTlpmWmJaXnp2dnqCdn5aan5+fn6Oeo6Ghq7GqrKurrLKrrbOsrrOtrrStr6+vr7Kvr7Sur7WusLOvsLWvsLavsbawsbewsrexsrixs7iytLmztLqztbW1tbq0tru1t7y2uL23ub64ub65urm5ur+5ur+6u8C6u8C7vMC8vMG7vMG8vcK8vcK9vsK9vsO+v7+/v8O+v8S+wMS/wMW/wMXAwcXAwsfCw8fCw8jDxMfDxMjDxMnExcnExcnFxsrFxsrGx8vHyMfHyMzHyMzIycjIyc3Iyc3Jys3Jy8rLy87Ky8/Ky8/LzM/LzNDLzNDMzdDMzdHMzdHNztHNztLOz8/Pz9PP0NPP0NTQ0dTQ0dTR0tXR0tXS09bS1tXV39/f4N/g4+Pj6Ofn7+/v8fHx////vrZjCgAAAAN0Uk5TAAoO5yEBUwAAA3pJREFUSMe1lotfEkEQx61B5AqLyk6UwlTyUaGlmW/TMk3Nt5lkio8IRbv0Cu0QKFHPU5EM9w9u9g7wPMBPYs2H+yyfWfbL7G9nZi/rMvwXy8oC6B8cdky7Fjh+TfAHg37fOs95XDOOkcH+nq6Xrc3NTQ3nNyQjd2xyzs15fSFROgiHD/bE0IaXc89PjlFyR2tzU0bkLEDuR8+KEJLK83V0E7r8CmnLxy+5PiD5dWdHSzzk4lw6nVusZaT0I3gYuXxAtOecCJRTJQa9y67JkcHe7s5YyNVGANZqZQGM1WpCGj+CHXMePigVIE9vsTmdNosevxYs/vQuzTuGB1AMOeRn2WCOELSIGbJVhHR+BE+7VwKUq7dFiWJ1iDYuBnn3zPhQvxxyQ4MRLDgDQKfBeAKQ/Uerq0caP4JdnCAi1xQhCYuaMGbRx7kmMeRX7ahFMZgP42BihoSesr+eQRs95afgha8hO3KjhJwmV215PbPjg33dHS1NTbmg+t8I5MbXU/8qc/vOPYZ5pPZTMOeTckC/TU5ZVA850gbnej+MiYFaAEu9FpAFISwk1rPk+CnzgJAa5obaT8H8ZjmAjWisDqAixLunxlALCrYSWQlFC+sJ2EqOrzBXUWaG+a3yU/DaTj7oUQinmWVtyvAQF+shX1ynWvR2tZ8JJm+uO2XwLw1YkHR0g045g9k2ebDQbev2fMvz74b6ujrOlIKM1n8jpJFhtFL49wEwRBMYIk5DnQnTo81QJ2tx4OdcDkw4BMcOTwlYc3g1DFNWdo15oj28QBjASdfYlKUxuXEH4eCXOBjTiqRJN0LKaLrdPdam21+B1QViTSqQ742Nhxr/KSmi2wYbSkEHrRSZlHTs8GKnljg8K+gkIXF4SMBmY7JYTdomlMYvp1sB6Eki3dpYeSAGTLc1z+xbJd0yaZv8pl3WIlWBfJoaGehRutD5G/1nuaQjZ5d0JmBsQrWpmpA95F2YwcKTm1AmYCgRxEIkq9pQRG6bwv0LXdP4FPl31Y0+asNGf0sKlMBFwVAa3C3UXE3Sj8eaXyr1AcqTPEFSgaHUL9aqL1O7GNBygcQ+JNkfn0wGQxFe//b49V8lhYRkHeJtM8WE0kJSguHmc9/mjrQfDu9L+MLyIi9ZtDRCKFNpI0bLq5wQ/IGAX5iozEt1GukijmufFvyv3wov/SfuH2haM4xZTNJZAAAAAElFTkSuQmCC" data-pagespeed-url-hash="1118061760" data-pagespeed-onload="pagespeed.CriticalImages.checkImageForCriticality(this);" onload="var elem=this;if (this==window) elem=document.body;elem.setAttribute('data-pagespeed-loaded', 1)"/></a></p>
+<p>Privacy International | Registered Charity Number: <a href="http://opencharities.org/charities/1147471">1147471</a><br/>
+62 Britton Street, London, EC1M 5UY | +44 (0) 20 3422 4321</p>
+<hr/>
+<p><a href="https://privacyinternational.org//sitemap">Sitemap </a> | <a href="92">How we use and protect your data</a> | <a href="664">Donate</a> | <a href="6">Contact Us</a>&nbsp;| <a href="/civicrm/mailing/subscribe?gid=2">Subscribe to our mailing list</a> | <a href="/news/rss.xml">Subscribe to RSS</a></p> </div>
+</div>
+</div>
+</footer>
+</div>
+<script src="https://privacyinternational.org/sites/all/modules/webform_civicrm/js/webform_civicrm_forms.js,qoim0kh.pagespeed.jm.7SostnnymP.js" type="text/psajs" data-pagespeed-orig-index="11"></script>
+<script type="text/javascript" src="https://privacyinternational.org/pagespeed_static/js_defer.I4cHjq6EEP.js"></script></body>
+</html>
